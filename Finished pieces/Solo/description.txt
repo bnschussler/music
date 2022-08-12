@@ -1,0 +1,9 @@
+This piece is named 'Solo' mostly because it is not in fact a solo. I think the song sounds a bit orchestral, if an orchestra was one piano and a few violin family instruments. 
+
+This song is meant to evoke strong emotion (I actually tried to draw inspiration from the feeling of loneliness, another reason for the title), which I try to accomplish by using a very wide pitch range and a strong chord progression (so basically stacking lots of octaves). This works fine for a short piece, but isn't a great way to make a good piece in my opinion; it would quickly get old if I wanted to make anything more substantial. 
+
+Some of the instruments are occasionally played outside of their physically playable range, mostly because I liked the way it sounds on MuseScore more that way. In practice, you could just use whatever violin family instrument suits each part best (not that I expect anyone to be trying to play this thing).
+
+In all, I think this piece turned out pretty good! One thing that feels lacking is the way instruments cut in/out very suddenly, which is a bit jarring and makes pauses less interesting than if there was some reverb/fade (like there would be if it was played in a physical room with echo). In general, string instruments have way more depth than what most current software allows for, and I think there's a lot that an actual musician would have done with this piece that isn't accessible with MuseScore. (This isn't a dig on MuseScore; it's an amazing piece of software, especially given that it's completely free.) Some of the timings could have been adjusted as well, but I don't have the patience to implement rubato by hand.
+
+Special thanks to my brother Paul for giving me some helpful feedback.
