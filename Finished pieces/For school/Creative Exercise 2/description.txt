@@ -1,0 +1,1 @@
+The title is a reference to integer underflow; this piece is a demonstration of how flatting the tonic of a locrian scale yields a lydian one, as if it wraps back around from the darkest mode to the brightest one.
